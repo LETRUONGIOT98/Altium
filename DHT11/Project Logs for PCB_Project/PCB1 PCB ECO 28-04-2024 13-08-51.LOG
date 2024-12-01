@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=BT1-2
+Removed Pin From Net: NetName=GND Pin=BT1-2
+Removed Pin From Net: NetName=GND Pin=BT2-2
+Removed Pin From Net: NetName=GND Pin=BT2-2
+Removed Pin From Net: NetName=GND Pin=BT3-2
+Removed Pin From Net: NetName=GND Pin=BT3-2
+Removed Pin From Net: NetName=NetARRDUINO UNO1_27 Pin=RTC1-2
+Removed Pin From Net: NetName=NetARRDUINO UNO1_26 Pin=RTC1-3
+Removed Pin From Net: NetName=VCC Pin=RTC1-4
+Removed Pin From Net: NetName=GND Pin=RTC1-5
+Removed Member From Class: ClassName=Sheet1 Member=BT1
+Removed Member From Class: ClassName=Sheet1 Member=BT3
+Removed Member From Class: ClassName=Sheet1 Member=RTC1
+Added Room: Name=Sheet1

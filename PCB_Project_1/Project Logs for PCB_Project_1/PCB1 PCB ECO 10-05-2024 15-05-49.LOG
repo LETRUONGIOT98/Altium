@@ -1,0 +1,97 @@
+Added Component: Designator=C2(RAD-0.2)
+Add component (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Value(F)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Display"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "C_RAD-0.2_EU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4(RAD-0.2)
+Add component (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Value(F)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Display"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "C_RAD-0.2_EU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C6(RAD-0.2)
+Add component (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Value(F)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Display"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "C_RAD-0.2_EU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C7(RAD-0.2)
+Add component (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Value(F)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Display"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "C_RAD-0.2_EU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C9(RAD-0.2)
+Add component (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Value(F)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Display"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "C_RAD-0.2_EU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C10(RAD-0.2)
+Add component (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "nameAlias"; Value = "Value(F)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Display"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "C_RAD-0.2_EU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=C4-2
+Added Net: Name=+5V
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_1 Pin=C2-2
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC5_1 Pin=C6-2
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Net: Name=NetC10_1
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Net: Name=NetC10_2
+Added Net: Name=NetCN1_1
+Added Net: Name=NetCN1_2
+Added Net: Name=NetD1_2
+Added Net: Name=NetD2_1
+Added Net: Name=NetD3_2
+Added Net: Name=NetD4_1
+Added Net: Name=NetD5_2
+Added Net: Name=NetLED1_1
+Added Net: Name=NetLED1_2
+Added Net: Name=NetLED2_1
+Added Net: Name=NetQ1_1
+Added Net: Name=NetR1_2
+Added Net: Name=NetR2_2
+Added Net: Name=NetR3_1
+Added Net: Name=NetR5_2
+Added Net: Name=NetR7_2
+Added Net: Name=NetR11_1
+Added Net: Name=NetR12_1
+Added Net: Name=NetU5_3
+Added Net: Name=NetU5_5
+Added Net: Name=NetU7_2
+Added Class: Name=Sheet_1_2024-05-08
+Added Room: Name=Sheet_1_2024-05-08
